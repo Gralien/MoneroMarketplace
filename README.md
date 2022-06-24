@@ -1,4 +1,3 @@
-# Eckmar (Eckmar's Marketplace Script)
 
 Cryptocurrency-friendly marketplace on Laravel. The demo can be accessed on https://demo.botdigit.com.
 
